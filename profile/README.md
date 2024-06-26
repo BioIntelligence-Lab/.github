@@ -1,1 +1,1 @@
-# BioIntelligence Research Group
+# BioIntelligence Research Lab
